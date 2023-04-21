@@ -10,21 +10,25 @@ Notebook - Contains Jupyter Notebook file for Tax Calculator.
 ## Usage
 To use the tax calculator, follow these steps:
 
-Clone the repository to your local machine.
-Open the Jupyter Notebook file in the notebook directory using Jupyter Notebook or a similar program.
-Modify the input variables (such as country, currency type, etc.) to match your own financial situation.
-Run the notebook to calculate your income tax and view the results.
+- Clone the repository to your local machine.
+
+- Open the Jupyter Notebook file in the notebook directory using Jupyter Notebook or a similar program.
+
+- Modify the input variables (such as country, currency type, etc.) to match your own financial situation.
+
+- Run the notebook to calculate your income tax and view the results.
 
 ## Dependencies
 To run the Jupyter Notebooks in this repository, you will need to have the following dependencies installed:
 
-Python 3.7 or higher
+- Python 3.7 or higher
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Pandas
+- Pandas
 
 ### The tax rates and calculations used in the project were sourced from the official government websites for Canada and India:
 
 Canada Revenue Agency
+
 Income Tax Department of India
